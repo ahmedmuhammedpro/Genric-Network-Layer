@@ -41,4 +41,4 @@ Temporary Items\
 /SportsApp/Info.plist\
 \
 # End of https://www.gitignore.io/api/macos\
-}
+}.DS_Store
